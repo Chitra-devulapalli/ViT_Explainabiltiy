@@ -26,10 +26,12 @@ This repository presents my implementation and analysis of Vision Transformers (
 ### Comparative Model Analysis
 * Compared attention visualizations and token norm distributions between Model A (standard ViT) and Model B (ViT with register tokens).
 * Examined the effect of register tokens on feature map smoothness and classification performance.
-  * Model A - 
+* Model A -
+    
 ![submission_model_A_norms](https://github.com/user-attachments/assets/d4abb948-fb84-4306-8ca1-8d4462ca3244)
 
-  * Model B -
+* Model B -
+    
 ![Submission_Model_B_norms](https://github.com/user-attachments/assets/ce96ce5f-04b9-4390-a043-b7cf87cdaea6)
 
 ### Theoretical Insights
